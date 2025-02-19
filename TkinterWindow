@@ -1,0 +1,7 @@
+#this is a basic window with no components in python.
+
+import tkinter as tk
+m = tk.Tk()
+
+m.mainloop()
+
